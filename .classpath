@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src" including="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/org/bouncycastle/bcprov-jdk15to18/1.68/bcprov-jdk15to18-1.68.jar" sourcepath="M2_REPO/org/bouncycastle/bcprov-jdk15to18/1.68/bcprov-jdk15to18-1.68-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/log4j/log4j/1.2.16/log4j-1.2.16.jar" sourcepath="M2_REPO/log4j/log4j/1.2.16/log4j-1.2.16-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-collections/commons-collections/3.1/commons-collections-3.1.jar" sourcepath="M2_REPO/commons-collections/commons-collections/3.1/commons-collections-3.1-sources.jar"/>
+  <classpathentry kind="lib" path="E:/Softwares/RazorSQL/drivers/db2/db2jcc.jar"/>
+  <classpathentry kind="lib" path="E:/Softwares/RazorSQL/drivers/db2/db2jcc_license_cu.jar"/>
+  <classpathentry kind="var" path="M2_REPO/net/sf/jt400/jt400/10.5/jt400-10.5.jar" sourcepath="M2_REPO/net/sf/jt400/jt400/10.5/jt400-10.5-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar" sourcepath="M2_REPO/com/google/code/gson/gson/2.8.5/gson-2.8.5-sources.jar"/>
+</classpath>
