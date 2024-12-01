@@ -1,0 +1,415 @@
+2021-05-01 20:18:57 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-01 20:20:37 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-01 20:26:18 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-01 20:30:05 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-01 20:30:13 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-27 16:08:15 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-27 16:08:19 - INFO  [main] [GetConsumerData @getConsumerDataByDid:448]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.ResultSet.next()" because "requestMasterResultSet" is null
+2021-05-27 16:09:04 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-27 16:09:08 - INFO  [main] [GetConsumerData @getConsumerDataByDid:448]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.ResultSet.next()" because "requestMasterResultSet" is null
+2021-05-27 16:13:30 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-27 16:13:33 - INFO  [main] [GetConsumerData @getConsumerDataByDid:448]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.ResultSet.next()" because "requestMasterResultSet" is null
+2021-05-27 16:16:49 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-27 16:16:51 - INFO  [main] [GetConsumerData @getConsumerDataByDid:448]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.ResultSet.next()" because "requestMasterResultSet" is null
+2021-05-27 16:20:52 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-27 16:20:54 - INFO  [main] [GetConsumerData @getConsumerDataByDid:448]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.ResultSet.next()" because "requestMasterResultSet" is null
+2021-05-27 16:26:40 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-27 16:30:01 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-27 16:30:27 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-27 16:33:55 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-27 17:36:21 - INFO  [main] [DbOperations @getConnection:116]- Error : com.ibm.db2.jcc.am.DisconnectNonTransientConnectionException: [jcc][t4][2043][11550][3.69.24] Exception java.net.ConnectException: Error opening socket to server /192.168.50.220 on port 50,000 with message: Connection timed out: connect. ERRORCODE=-4499, SQLSTATE=08001
+2021-05-27 17:36:21 - INFO  [main] [GetConsumerData @getConsumerDataByDid:449]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareCall(String)" because "conn" is null
+2021-05-27 17:36:29 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-27 17:37:37 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-27 17:41:37 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-27 17:45:04 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-27 17:50:42 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-27 17:50:42 - INFO  [main] [GetConsumerData @getConsumerDataByDid:449]- Error : java.lang.IllegalArgumentException
+2021-05-27 17:51:10 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-27 17:52:33 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-27 18:00:04 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-27 18:05:13 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-27 18:20:27 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-27 18:23:02 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-29 01:28:54 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-29 01:48:48 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-29 01:54:45 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-29 02:03:44 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-29 02:07:56 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-29 02:13:35 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-29 02:18:07 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-29 02:24:08 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-29 02:26:17 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-29 02:33:50 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-29 02:34:47 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-29 02:44:17 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-29 02:50:44 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-29 02:52:47 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-29 02:52:48 - INFO  [main] [GetConsumerData @getConsumerDataByDid:448]- Error : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+2021-05-29 02:53:01 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-29 02:54:11 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-29 03:04:33 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-29 03:07:49 - INFO  [main] [DbOperations @getConnection:108]- Connected to database successfully.
+2021-05-29 03:07:50 - INFO  [main] [GetCorporateData @getCorporateDataByDid:440]- Error : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+2021-06-18 10:18:43 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-18 10:18:43 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-18 10:18:44 - INFO  [main] [GetCorporateData @getCorporateDataByDid:427]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CORP_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-06-18 10:18:44 - INFO  [main] [GetCorporateData @getCorporateDataByDid:427]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CORP_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-06-18 10:34:55 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-18 10:34:56 - INFO  [main] [GetCorporateData @getCorporateDataByDid:427]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CORP_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-06-18 10:36:04 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-18 10:36:04 - INFO  [main] [GetCorporateData @getCorporateDataByDid:427]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CORP_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-06-18 10:36:31 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-18 10:36:31 - INFO  [main] [GetCorporateData @getCorporateDataByDid:427]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CORP_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-06-18 10:46:12 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-18 10:46:12 - INFO  [main] [GetCorporateData @getCorporateDataByDid:427]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CORP_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-06-18 10:46:22 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-18 10:46:23 - INFO  [main] [GetCorporateData @getCorporateDataByDid:427]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CORP_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-06-18 14:12:06 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-18 14:12:06 - INFO  [main] [GetCorporateData @getCorporateDataByDid:427]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CORP_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-06-18 14:26:03 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-18 14:26:03 - INFO  [main] [GetCorporateData @getCorporateDataByDid:427]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CORP_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-06-18 14:28:56 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-18 14:28:56 - INFO  [main] [GetCorporateData @getCorporateDataByDid:429]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CORP_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-06-18 14:30:41 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-18 14:30:41 - INFO  [main] [GetCorporateData @getCorporateDataByDid:427]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CORP_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-06-18 14:33:29 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-18 14:33:29 - INFO  [main] [GetCorporateData @getCorporateDataByFid:428]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CORP_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-06-18 14:40:46 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-18 14:40:46 - INFO  [main] [GetCorporateData @getCorporateDataByDid:437]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CORP_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-06-18 14:47:28 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-18 14:47:28 - INFO  [main] [GetCorporateData @getCorporateDataByFid:427]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CORP_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-06-18 14:49:13 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-18 14:49:13 - INFO  [main] [GetCorporateData @getCorporateDataByFid:427]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CORP_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-06-18 14:49:27 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-18 14:49:27 - INFO  [main] [GetConsumerData @getConsumerDataByDid:435]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CRIB_CON_DATA;PROCEDURE, DRIVER=3.69.24
+2021-06-18 14:50:52 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-18 14:50:52 - INFO  [main] [GetCorporateData @getCorporateDataByDid:437]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CORP_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-06-18 15:12:26 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-18 15:12:26 - INFO  [main] [GetCorporateData @getCorporateDataByDid:438]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CORP_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-06-18 15:15:33 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-18 15:15:34 - INFO  [main] [GetCorporateData @getCorporateDataByDid:441]- Error : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+2021-06-18 15:28:55 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-18 15:28:55 - INFO  [main] [GetCorporateData @getCorporateDataByFid:438]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CORP_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-06-19 15:48:49 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-19 15:48:49 - INFO  [main] [GetCorporateData @getCorporateDataByFid:438]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CORP_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-06-19 15:49:08 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-19 15:49:08 - INFO  [main] [GetConsumerData @getConsumerDataByDid:446]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CON_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-06-19 15:49:32 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-19 15:51:45 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-19 16:08:51 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-19 16:11:58 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-19 16:15:40 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-19 16:16:56 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-19 16:18:55 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-19 16:19:23 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-19 16:21:47 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-19 16:24:18 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-19 16:24:57 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-19 16:26:59 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-19 16:27:46 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-19 16:28:42 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-19 16:29:35 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-29 16:08:56 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-29 16:08:56 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-29 16:08:57 - INFO  [main] [GetConsumerData @getConsumerDataByDid:446]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CON_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-06-29 16:08:57 - INFO  [main] [GetConsumerData @getConsumerDataByDid:446]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CON_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-06-29 16:09:27 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-29 16:09:41 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-29 16:12:16 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-29 16:12:44 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-29 16:12:56 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-29 16:13:49 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-29 16:15:39 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-06-29 16:16:33 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-07-05 03:09:51 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-07-05 03:09:53 - INFO  [main] [GetConsumerData @getConsumerDataByDid:498]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.ResultSet.next()" because "last24MonthsResultSet" is null
+2021-07-05 03:27:42 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-07-05 03:30:14 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-07-05 03:34:50 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-07-05 03:39:19 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-07-05 03:39:57 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-07-05 03:57:37 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-07-05 04:00:47 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-07-05 04:04:17 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-07-05 04:11:43 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-07-05 04:13:34 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-07-05 04:14:32 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-07-05 04:17:09 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-07-05 04:19:54 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-07-05 19:57:52 - INFO  [main] [DbOperations @getConnection:53]- Error : com.ibm.db2.jcc.am.DisconnectNonTransientConnectionException: [jcc][t4][2043][11550][3.69.24] Exception java.net.ConnectException: Error opening socket to server /192.168.50.220 on port 50,000 with message: Connection timed out: connect. ERRORCODE=-4499, SQLSTATE=08001
+2021-07-05 19:57:52 - INFO  [main] [GetConsumerData @getConsumerDataByDid:498]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareCall(String)" because "conn" is null
+2021-07-05 19:58:29 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-07-05 20:06:05 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-07-05 20:07:26 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-07-05 20:28:35 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-08-06 00:09:54 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-08-06 00:09:54 - INFO  [main] [GetConsumerData @getConsumerDataByDid:498]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CON_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-08-06 00:09:55 - INFO  [main] [DbOperations @getConnection:53]- Error : com.ibm.db2.jcc.am.DisconnectNonTransientConnectionException: [jcc][t4][2043][11550][3.69.24] Exception java.net.ConnectException: Error opening socket to server /192.168.50.220 on port 50,000 with message: Connection timed out: connect. ERRORCODE=-4499, SQLSTATE=08001
+2021-08-06 00:09:55 - INFO  [main] [GetConsumerData @getConsumerDataByDid:501]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareCall(String)" because "conn" is null
+2021-08-06 00:10:29 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-08-06 00:10:31 - INFO  [main] [GetConsumerData @getConsumerDataByDid:498]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: [jcc][t4][10145][10897][3.69.24] Invalid parameter 2: Parameter index is out of range. ERRORCODE=-4461, SQLSTATE=42815
+2021-11-14 12:43:55 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-14 12:43:55 - INFO  [main] [GetConsumerData @getConsumerDataByDid:498]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CON_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-11-14 12:44:21 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-14 12:44:26 - INFO  [main] [GetConsumerData @getConsumerDataByDid:498]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: [jcc][t4][10145][10897][3.69.24] Invalid parameter 2: Parameter index is out of range. ERRORCODE=-4461, SQLSTATE=42815
+2021-11-14 12:46:53 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-14 12:46:53 - INFO  [main] [GetConsumerData @getConsumerDataByDid:498]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CON_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-11-14 12:47:38 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-14 12:47:44 - INFO  [main] [GetConsumerData @getConsumerDataByDid:498]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: [jcc][t4][10145][10897][3.69.24] Invalid parameter 2: Parameter index is out of range. ERRORCODE=-4461, SQLSTATE=42815
+2021-11-19 13:16:12 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-19 13:16:12 - INFO  [main] [GetConsumerData @getConsumerDataByDid:498]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CON_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-11-19 23:57:32 - INFO  [main] [DbOperations @getConnection:53]- Error : com.ibm.db2.jcc.am.DisconnectNonTransientConnectionException: [jcc][t4][2043][11550][3.69.24] Exception java.net.ConnectException: Error opening socket to server /192.168.50.220 on port 50,000 with message: Connection timed out: connect. ERRORCODE=-4499, SQLSTATE=08001
+2021-11-19 23:57:32 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:498]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareCall(String)" because "conn" is null
+2021-11-19 23:58:31 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-19 23:58:31 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:495]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CON_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-11-19 23:59:02 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-19 23:59:02 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:495]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=CRIB.GET_CON_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-11-20 00:00:12 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 00:00:12 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:495]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=CRIBPRDDT4.GET_CON_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-11-20 00:03:47 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 00:03:47 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:495]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=CRIBPRDDT4.GET_CON_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-11-20 00:06:21 - INFO  [main] [DbOperations @getConnection:53]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: [jcc][t4][10205][11235][3.69.24] Null password is not supported. ERRORCODE=-4461, SQLSTATE=42815
+2021-11-20 00:06:21 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:498]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareCall(String)" because "conn" is null
+2021-11-20 00:07:56 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 00:12:23 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 00:13:24 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 00:13:37 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 00:22:56 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 00:24:02 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 00:24:02 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:517]- Error : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+2021-11-20 00:26:28 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 00:26:28 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:518]- Error : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+2021-11-20 00:29:07 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 00:29:08 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:517]- Error : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+2021-11-20 00:30:33 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 00:30:34 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:517]- Error : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+2021-11-20 00:35:53 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 00:35:53 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:516]- Error : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+2021-11-20 00:36:23 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 00:36:23 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:517]- Error : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+2021-11-20 00:36:55 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 00:36:55 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:517]- Error : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+2021-11-20 00:37:41 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 00:37:41 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:518]- Error : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+2021-11-20 00:40:49 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 00:40:49 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:551]- Error : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+2021-11-20 00:41:33 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 00:41:34 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:548]- Error : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+2021-11-20 00:43:19 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 00:43:19 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:518]- Error : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+2021-11-20 00:45:47 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 00:45:48 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:515]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: [jcc][t4][10145][10897][3.69.24] Invalid parameter 2: Parameter index is out of range. ERRORCODE=-4461, SQLSTATE=42815
+2021-11-20 00:47:11 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 00:48:15 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 00:54:04 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 00:56:48 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 00:58:08 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 01:11:01 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 01:11:01 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:512]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CON_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-11-20 01:11:24 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 01:17:47 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 01:22:29 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 01:22:30 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:512]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.ResultSet.next()" because "requestMasterResultSet" is null
+2021-11-20 01:22:55 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 01:23:49 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 10:27:42 - INFO  [main] [DbOperations @getConnection:53]- Error : com.ibm.db2.jcc.am.DisconnectNonTransientConnectionException: [jcc][t4][2043][11550][3.69.24] Exception java.net.ConnectException: Error opening socket to server /192.168.50.240 on port 50,000 with message: Connection timed out: connect. ERRORCODE=-4499, SQLSTATE=08001
+2021-11-20 10:27:42 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:494]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareCall(String)" because "conn" is null
+2021-11-20 10:27:46 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 10:27:49 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:494]- Error : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+2021-11-20 10:28:13 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 10:28:15 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:493]- Error : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+2021-11-20 10:29:40 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 10:29:42 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:494]- Error : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+2021-11-20 10:31:47 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 10:31:49 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:494]- Error : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+2021-11-20 10:32:06 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 10:32:07 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:494]- Error : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+2021-11-20 10:32:37 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 10:32:39 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:494]- Error : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+2021-11-20 10:34:02 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 10:34:04 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:494]- Error : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+2021-11-20 11:00:41 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 11:01:17 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 11:01:43 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 11:04:20 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 11:04:22 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:491]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: [jcc][t4][10145][10897][3.69.24] Invalid parameter 2: Parameter index is out of range. ERRORCODE=-4461, SQLSTATE=42815
+2021-11-20 11:39:47 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 11:41:04 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 11:50:44 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 11:52:42 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 11:52:44 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:538]- Error : com.ibm.db2.jcc.am.SqlException: [jcc][t4][1090][10899][3.69.24] Invalid operation to read at current cursor position. ERRORCODE=-4476, SQLSTATE=02501
+2021-11-20 11:54:02 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 13:18:49 - INFO  [main] [DbOperations @getConnection:53]- Error : com.ibm.db2.jcc.am.DisconnectNonTransientConnectionException: [jcc][t4][2043][11550][3.69.24] Exception java.net.ConnectException: Error opening socket to server /192.168.50.240 on port 50,000 with message: Connection timed out: connect. ERRORCODE=-4499, SQLSTATE=08001
+2021-11-20 13:18:49 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:531]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareCall(String)" because "conn" is null
+2021-11-20 13:18:50 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 13:18:52 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:528]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: [jcc][t4][10145][10897][3.69.24] Invalid parameter 6: Parameter index is out of range. ERRORCODE=-4461, SQLSTATE=42815
+2021-11-20 13:21:31 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 13:21:33 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:527]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: [jcc][t4][10145][10897][3.69.24] Invalid parameter 3: Parameter index is out of range. ERRORCODE=-4461, SQLSTATE=42815
+2021-11-20 15:56:17 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 15:56:19 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:529]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.ResultSet.next()" because "disputeDetailResultSet" is null
+2021-11-20 15:56:21 - INFO  [main] [DbOperations @getConnection:53]- Error : com.ibm.db2.jcc.am.DisconnectNonTransientConnectionException: [jcc][t4][2043][11550][3.69.24] Exception java.net.ConnectException: Error opening socket to server /192.168.50.240 on port 50,000 with message: Connection timed out: connect. ERRORCODE=-4499, SQLSTATE=08001
+2021-11-20 15:56:21 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:529]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareCall(String)" because "conn" is null
+2021-11-20 15:56:29 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 15:56:32 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:529]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.ResultSet.next()" because "disputeDetailResultSet" is null
+2021-11-20 15:56:42 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 15:56:45 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:529]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.ResultSet.next()" because "disputeDetailResultSet" is null
+2021-11-20 15:58:14 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 15:58:15 - INFO  [main] [GetConsumerData @getConsumerDataByDetailId:529]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.ResultSet.next()" because "disputeDetailResultSet" is null
+2021-11-20 16:02:33 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 16:03:50 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-20 16:13:41 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-21 13:27:48 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-21 13:27:48 - INFO  [main] [GetCorporateData @getCorporateDataByDetailId:495]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CORP_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-11-21 13:29:35 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-21 13:29:36 - INFO  [main] [GetCorporateData @getCorporateDataByDetailId:498]- Error : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+2021-11-21 13:33:11 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-21 13:33:11 - INFO  [main] [GetCorporateData @getCorporateDataByDetailId:498]- Error : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+2021-11-21 13:34:01 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-21 13:34:02 - INFO  [main] [GetCorporateData @getCorporateDataByDetailId:498]- Error : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+2021-11-21 13:39:10 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-21 13:39:11 - INFO  [main] [GetCorporateData @getCorporateDataByDetailId:498]- Error : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+2021-11-21 13:41:50 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-21 13:41:51 - INFO  [main] [GetCorporateData @getCorporateDataByDetailId:495]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: [jcc][t4][10145][10897][3.69.24] Invalid parameter 2: Parameter index is out of range. ERRORCODE=-4461, SQLSTATE=42815
+2021-11-21 13:43:49 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-21 13:43:51 - INFO  [main] [GetCorporateData @getCorporateDataByDetailId:520]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: [jcc][t4][10145][10897][3.69.24] Invalid parameter 6: Parameter index is out of range. ERRORCODE=-4461, SQLSTATE=42815
+2021-11-21 13:45:23 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-21 13:45:24 - INFO  [main] [GetCorporateData @getCorporateDataByDetailId:519]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: [jcc][t4][10145][10897][3.69.24] Invalid parameter 3: Parameter index is out of range. ERRORCODE=-4461, SQLSTATE=42815
+2021-11-21 13:47:37 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-21 13:47:38 - INFO  [main] [GetCorporateData @getCorporateDataByDetailId:521]- Error : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+2021-11-21 13:48:47 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-21 13:48:49 - INFO  [main] [GetCorporateData @getCorporateDataByDetailId:521]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.ResultSet.next()" because "disputeDetailResultSet" is null
+2021-11-23 01:04:59 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 01:04:59 - INFO  [main] [GetCorporateData @getCorporateDataByDetailId:518]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CORP_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-11-23 01:05:34 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 01:05:34 - INFO  [main] [GetCorporateData @getCorporateDataByDetailId:518]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=CRIBPTDDR4.GET_CORP_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-11-23 01:06:21 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 01:06:23 - INFO  [main] [GetCorporateData @getCorporateDataByDetailId:521]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.ResultSet.next()" because "disputeDetailResultSet" is null
+2021-11-23 01:08:14 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 01:08:16 - INFO  [main] [GetCorporateData @getCorporateDataByDetailId:521]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.ResultSet.next()" because "disputeDetailResultSet" is null
+2021-11-23 01:13:33 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 01:30:02 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 01:30:02 - INFO  [main] [GetCorporateData @getCorporateDataByDetailId:518]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CORP_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-11-23 01:30:06 - INFO  [main] [DbOperations @getConnection:53]- Error : com.ibm.db2.jcc.am.DisconnectNonTransientConnectionException: [jcc][t4][2043][11550][3.69.24] Exception java.net.ConnectException: Error opening socket to server /192.168.50.240 on port 50,000 with message: Connection timed out: connect. ERRORCODE=-4499, SQLSTATE=08001
+2021-11-23 01:30:06 - INFO  [main] [GetCorporateData @getCorporateDataByDetailId:521]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareCall(String)" because "conn" is null
+2021-11-23 01:30:20 - INFO  [main] [DbOperations @getConnection:53]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: [jcc][10165][10051][3.69.24] Invalid database URL syntax: jdbc:db2://192.168.50.240:50000/CRIBDB:currentSchema=CRIBPRDDT4. ERRORCODE=-4461, SQLSTATE=42815
+2021-11-23 01:30:20 - INFO  [main] [GetCorporateData @getCorporateDataByDetailId:521]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareCall(String)" because "conn" is null
+2021-11-23 01:35:15 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 01:35:15 - INFO  [main] [GetCorporateData @getCorporateDataByDetailId:518]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error: SQLCODE=-440, SQLSTATE=42884, SQLERRMC=GET_CORP_CRIB_DATA;PROCEDURE, DRIVER=3.69.24
+2021-11-23 01:40:03 - INFO  [main] [DbOperations @getConnection:53]- Error : com.ibm.db2.jcc.am.SqlSyntaxErrorException: [jcc][10165][10051][3.69.24] Invalid database URL syntax: jdbc:db2://192.168.50.240:50000/CRIBDB:currentSchema=CRIBPRDDT4;currentFunctionPath="CRIBPRDDT4". ERRORCODE=-4461, SQLSTATE=42815
+2021-11-23 01:40:03 - INFO  [main] [GetCorporateData @getCorporateDataByDetailId:521]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareCall(String)" because "conn" is null
+2021-11-23 01:40:27 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 02:10:43 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 02:36:47 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 02:36:48 - INFO  [main] [GetCorporateData @getCorporateDataByDetailId:521]- Error : java.lang.StringIndexOutOfBoundsException: begin 0, end 10, length 2
+2021-11-23 02:37:54 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 02:37:54 - INFO  [main] [GetCorporateData @getCorporateDataByDetailId:521]- Error : java.lang.StringIndexOutOfBoundsException: begin 0, end 10, length 2
+2021-11-23 02:38:39 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 02:38:39 - INFO  [main] [GetCorporateData @getCorporateDataByDetailId:521]- Error : java.lang.StringIndexOutOfBoundsException: begin 0, end 10, length 2
+2021-11-23 02:38:59 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 02:38:59 - INFO  [main] [GetCorporateData @getCorporateDataByDetailId:521]- Error : java.lang.StringIndexOutOfBoundsException: begin 0, end 10, length 2
+2021-11-23 02:46:26 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 02:54:15 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 03:00:29 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 03:03:45 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 03:09:53 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 03:10:28 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 03:13:14 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 03:19:11 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 03:22:53 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 03:23:33 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 03:24:03 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 03:25:01 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 03:26:16 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 03:27:09 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 03:28:32 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 03:28:51 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 03:30:04 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 03:30:23 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 03:34:23 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-11-23 03:41:09 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-10 16:08:24 - INFO  [main] [DbOperations @getConnection:53]- Error : com.ibm.db2.jcc.am.DisconnectNonTransientConnectionException: [jcc][t4][2043][11550][3.69.24] Exception java.net.ConnectException: Error opening socket to server /192.168.50.240 on port 50,000 with message: Connection timed out: connect. ERRORCODE=-4499, SQLSTATE=08001
+2021-12-10 16:08:24 - INFO  [main] [GetCorporateCribData @getCorporateCribDataByDetailId:521]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareCall(String)" because "conn" is null
+2021-12-10 16:08:38 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-10 16:11:07 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-10 16:24:45 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-10 16:31:36 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-10 16:33:34 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-10 16:35:11 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-10 16:37:37 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-10 16:49:03 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-10 16:51:02 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-10 16:53:31 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-10 16:59:15 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-10 17:01:58 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-10 17:02:25 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-10 17:24:38 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-10 17:29:12 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-10 17:32:44 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-10 17:34:14 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-10 17:40:29 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-10 17:42:31 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-10 17:45:05 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-10 17:49:01 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-10 17:50:04 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-10 17:51:19 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-10 17:52:18 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-10 17:55:23 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 12:19:04 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 12:32:40 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 12:37:24 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 12:42:14 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 12:42:17 - INFO  [main] [DbOperations @getConnection:53]- Error : com.ibm.db2.jcc.am.DisconnectNonTransientConnectionException: [jcc][t4][2043][11550][3.69.24] Exception java.net.ConnectException: Error opening socket to server /192.168.50.240 on port 50,000 with message: Connection timed out: connect. ERRORCODE=-4499, SQLSTATE=08001
+2021-12-11 12:42:17 - INFO  [main] [GetConsumerCribData @getConsumerCribDataByDetailId:527]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareCall(String)" because "conn" is null
+2021-12-11 12:42:17 - INFO  [main] [GetConsumerScoreData @getConsumerScoreDataByDetailId:71]- Error : java.lang.NullPointerException: Cannot invoke "java.sql.Connection.prepareCall(String)" because "conn" is null
+2021-12-11 12:48:18 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 12:52:30 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 12:53:13 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 12:54:22 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 12:54:25 - INFO  [main] [GetConsumerScoreData @getConsumerScoreDataByDetailId:72]- Error : java.lang.NullPointerException: Cannot invoke "com.gs.scoreObj.CribScore.getCribScore()" because the return value of "com.gs.scoreObj.ConsumerScoreObject.getCribScore()" is null
+2021-12-11 12:57:28 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 12:57:47 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 13:00:00 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 13:01:15 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 13:03:31 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 13:07:23 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 13:29:33 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 13:30:24 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 13:31:48 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 13:33:04 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 13:38:30 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 13:48:03 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 13:59:24 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 14:08:03 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 14:09:29 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 14:10:46 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 14:14:19 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 14:15:59 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 14:17:35 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 14:22:19 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2021-12-11 15:48:10 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2022-02-26 03:51:09 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2022-02-26 03:55:06 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2022-02-26 03:55:07 - INFO  [main] [CribReportPdfService @generatePdf:94]- Exception occured : com.ibm.db2.jcc.am.SqlSyntaxErrorException: [jcc][t4][10145][10897][3.69.24] Invalid parameter 100: Parameter index is out of range. ERRORCODE=-4461, SQLSTATE=42815
+	at com.ibm.db2.jcc.am.gd.a(Unknown Source)
+	at com.ibm.db2.jcc.am.gd.a(Unknown Source)
+	at com.ibm.db2.jcc.am.gd.a(Unknown Source)
+	at com.ibm.db2.jcc.am.ResultSet.checkForValidColumnIndex(Unknown Source)
+	at com.ibm.db2.jcc.am.ResultSet.checkGetterPreconditions(Unknown Source)
+	at com.ibm.db2.jcc.am.ResultSet.getObjectX(Unknown Source)
+	at com.ibm.db2.jcc.am.ResultSet.getObject(Unknown Source)
+	at com.gs.pdfGeneration.GetConsumerCribData.getConsumerCribDataByDetailId(GetConsumerCribData.java:78)
+	at com.gs.pdfGeneration.CribReportPdfService.generatePdf(CribReportPdfService.java:63)
+	at com.gs.pdfGeneration.CribReportPdfService.main(CribReportPdfService.java:196)
+
+2022-02-26 06:04:13 - INFO  [main] [CribReportPdfService @generatePdf:56]- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2022-02-26 06:04:14 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2022-02-26 06:05:48 - INFO  [main] [CribReportPdfService @generatePdf:56]- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2022-02-26 06:05:49 - INFO  [main] [DbOperations @getConnection:45]- Connected to database successfully.
+2022-02-26 06:05:49 - INFO  [main] [CribReportPdfService @generatePdf:76]- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>     111111111111111   >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2022-02-26 06:05:49 - INFO  [main] [CribReportPdfService @generatePdf:92]- >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>     55555555555555   >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2022-02-26 06:05:49 - INFO  [main] [CribReportPdfService @generatePdf:98]- Exception occured : java.lang.NullPointerException: Cannot invoke "Object.toString()" because the return value of "java.sql.ResultSet.getObject(int)" is null
+	at com.gs.pdfGeneration.GetCorporateCribData.getCorporateCribDataByDetailId(GetCorporateCribData.java:97)
+	at com.gs.pdfGeneration.CribReportPdfService.generatePdf(CribReportPdfService.java:77)
+	at com.gs.pdfGeneration.CribReportPdfService.main(CribReportPdfService.java:200)
+
